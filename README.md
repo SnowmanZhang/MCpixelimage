@@ -5,6 +5,12 @@ I use these programs to make pixel image in MineCraft more quickly and easy. :)
 
 snowman1995
 
+欢迎浏览我的像素画网站
+
+http://212.64.50.25:8080/MCpixelimage/
+
+事实上这些像素画正是我靠着下面的代码来快速做出来的。
+
 ## SimplePixel
 
 使用限制：
